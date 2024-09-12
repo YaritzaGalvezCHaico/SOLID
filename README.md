@@ -1,9 +1,6 @@
 # SOLID
 Práctica SOLID 
 
-# SOLID
-Práctica SOLID 
-
 # Calculadora de Patas
 
 Este proyecto es una simple calculadora que toma una lista de animales (representados por la cantidad de patas que tienen) y calcula el total de patas. La clase permite generar el resultado tanto en texto plano como en formato JSON.
